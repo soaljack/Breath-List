@@ -1,4 +1,4 @@
-# LLMusic
+# Breath List
 `Breath List` is an LLM-based breathwork playlist generator. It takes specific vibe or mood as input, along with other requirements and a given number of songs, and returns a playlist for breathwork.
 
 This project is based on the open source project `LLMusic` is an LLM-based playlist generator. It takes specific vibe or mood as input, along with other requirements and a given number of songs, and returns a playlist of songs that match the input.
